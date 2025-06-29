@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(33, 159, 201);
+    color: white;
+    margin: 0;
+}
+
+header {
+    border: 10px dashed red;
+    text-align: center;
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+
+}
+
+header img {
+
+}
+
+body h1 {
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+iframe {
+    //text-align: center;
+}
+
+.geod {
+    display: flex;
+    flex-wrap:wrap;
+}
